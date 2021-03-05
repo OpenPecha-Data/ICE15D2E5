@@ -1,15 +1,16 @@
-id: opecha:P007883
+id: P007883
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W21898
   title: ཡོངས་འཛིན་པཎྜི་ཏ་ཡེ་ཤེས་རྒྱལ་མཚན་གྱི་རྟོགས་བརྗོད
-  volume:
+  author: ''
+  volumes:
     53d048c4ea5a41abad5dc3d56339c6df:
       image_group_id: I1PD36389
       title: Volume 1 of yongs 'dzin paN+Di ta ye shes rgyal mtshan gyi rtogs brjod
       volume_number: 1
       total_pages: 242
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཡོངས་འཛིན་པཎྜི་ཏ་ཡེ་ཤེས་རྒྱལ་མཚན་གྱི་རྟོགས་བརྗོད
   author: ''
